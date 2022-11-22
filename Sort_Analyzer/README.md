@@ -1,3 +1,2 @@
-# sort-analyzer-python-starter
-Start Code for Python Sort Analyzer
+# sort-analyzer-python
 Compares Bubble, Selection, and Insertion sorting times on different types of arrays
