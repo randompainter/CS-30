@@ -22,17 +22,16 @@ contacts = [
     "Email": "Joe123@email.com"
 }]
 
-# Functions
+def display_names():
+    for i in contacts:
+        print(i["Name"])
+      
 def search_contacts(name):
     for i in range (len(contacts)):
         if contacts[i]["Name"] == name:
             return i
     # Else return -1 (Not Found)
     return -1
-
-def display_names():
-    for i in contacts:
-        print(i["Name"])
 
 def search_contact(): 
     selected_contact = input("Enter the contact you wish to find: ")
