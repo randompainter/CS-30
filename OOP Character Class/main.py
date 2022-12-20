@@ -22,7 +22,7 @@ class characters():
         self.level = newLevel
         print(self.name, "Set to level", self.level)
 
-# character property
+# character objects
 Spiderman = characters("Peter Parker", "With great power comes great responsibility", "Pizza time!")
 Batman = characters("Bruce Wayne", "The night is darkest just before dawn", "A hero can be anyone")
 
