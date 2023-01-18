@@ -1,0 +1,1 @@
+[{"username": "joe", "password": "1234", "favorites": [{"name": "Joe The Joker", "genre": "Horror", "ranking": "1"}, {"name": "Call Of The Goats", "genre": "Horror", "price": 40.99, "ranking": 8}]}, {"username": "1", "password": "1", "favorites": []}]
