@@ -1,3 +1,4 @@
 # CS30
-Project made in computer science 30
-Entire collection of all the projects
+Project made in advanced computer science
+（Com Sci 30）
+
